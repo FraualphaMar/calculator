@@ -1,0 +1,22 @@
+body{
+    display:flex;
+}
+.operators{
+    display:border-box;
+    width:100px;
+}
+.digits{
+    display:border-box;
+    width:100px;
+}
+.zero{
+    width:80px;
+}
+.clear{
+    width:80px;
+}
+.divide, .equals{
+    display:border-box;
+    width:36px;
+    background-color:red;
+}
